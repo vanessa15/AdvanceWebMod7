@@ -1,0 +1,60 @@
+.whole_beauty{
+width: 800px;
+min-height: 300px;
+
+}
+.movie_holder{
+float: left;
+width: 350px;
+border: 5px;
+border-color: white;
+
+}
+.vaneganda{
+	border: 1px solid gray;
+	border-radius: 50px;
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-image:url('6.jpg');
+	background-size: 100%;
+}
+.synopsis{
+float: left; 
+width: 350px;
+font color: white;
+}
+
+
+.for_cast{
+width: 1000px;
+float: left;
+}
+.cast_name{
+float: left;
+margin-right: 60px;
+width: 200px;
+}															
+
+body {
+  font-family: "Arial", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #333333;
+  background-image: url('4.jpg');
+background-size: 100%;
+}
+
+#iya{
+
+	width: 864px;
+	height: 422px;
+	margin: 0 auto;
+	
+	background: url(5.jpg)left top no-repeat;
+}
+#movform{
+
+	padding-top: 260px;
+padding-left: 43px;
+}
